@@ -1,8 +1,9 @@
 from setuptools import setup
+
 setup(
 	name = 'JSOV',
 	packages = ['JSOV'],
-	version = '0.1.1',
+	version = '0.1.2',
 	description = 'JSON visualization lib based on JSOV or custom templates',
 	author = 'Anas El Husseini',
 	author_email = 'linux.anas@gmail.com',
